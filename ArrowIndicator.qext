@@ -1,0 +1,15 @@
+{
+  "name": "Arrow Indicator",
+  "description": ".",
+  "icon": "arrowtoright",
+  "type": "visualization",
+  "version": "1.0.0",
+  "preview": "preview.png",
+  "author": "Idriss Benbassou",
+  "homepage": "https://idriss-benbassou.com",
+  "keywords": "",
+  "dependencies": {
+    "qlik-sense": ">=3.0.x"
+  },
+  "supportarea": false
+}
